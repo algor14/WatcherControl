@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\WatcherControl\WatcherControl\bin\Debug\WatcherControl.exe.config
+C:\Users\Student\Documents\WatcherControl\WatcherControl\bin\Debug\WatcherControl.exe
+C:\Users\Student\Documents\WatcherControl\WatcherControl\bin\Debug\WatcherControl.pdb
+C:\Users\Student\Documents\WatcherControl\WatcherControl\obj\Debug\WatcherControl.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\WatcherControl\WatcherControl\obj\Debug\WatcherControl.exe
+C:\Users\Student\Documents\WatcherControl\WatcherControl\obj\Debug\WatcherControl.pdb
